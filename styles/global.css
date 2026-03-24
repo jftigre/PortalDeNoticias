@@ -49,3 +49,9 @@ a:hover {
 .grid-flow-col {
     grid-auto-flow: column;
 }
+
+img {
+    max-width: 100%;
+    margin-block: 40px;
+    margin-top: 40px;
+}
