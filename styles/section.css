@@ -12,6 +12,9 @@ section header {
             background-image: url(/assets/icons/ArrowRight.svg);
             width: 16px;
             height: 16px;
+            background-repeat: no-repeat;  
+            background-position: center; 
+            background-size: contain;
         }
 
         &:hover span {
