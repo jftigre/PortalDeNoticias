@@ -1,4 +1,4 @@
-## 💻 Visualização do Projeto
+## 💻 Visualização do Projeto (https://jftigre.github.io/PortalDeNoticias/)
 
 ![Preview do Tech News](/assets/projeto_portal_de_noticias.png)
 
